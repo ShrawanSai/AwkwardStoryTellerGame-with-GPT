@@ -1,0 +1,10 @@
+Step 1: Install dependencies and  Run the flask app from terminal with command
+
+python application.py
+
+Step2: From another terminal, run the game app with command
+
+python full_game.py
+
+Note:
+A Storyteller's message must start with "0$" for the menu driven program to work
